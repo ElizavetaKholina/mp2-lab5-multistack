@@ -14,7 +14,7 @@ endif()
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/StackLib)
 
-add_subdirectory(example)
+add_subdirectory(Example)
 add_subdirectory(StackLib)
 add_subdirectory(gtest)
 add_subdirectory(test)
